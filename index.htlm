@@ -1,0 +1,55 @@
+‹!DOCTYPE html>
+<html lang="it">
+<head>
+‹meta charset="UTF-8">
+‹meta name="viewport" content="width-device-width, initial-scale=1.0"› ‹title>La mia scheda personale‹/title> ‹link rel-"stylesheet" href="style.css"> </head> ‹body>
+‹!-- Intestazione della pagina -->
+<header>
+<h1›Mi presento!</h1>
+<p>La mia prima pagina con HTML e CSS</p>
+</header>
+‹!-- Contenuto principale -->
+<main>
+‹article class="scheda"> <h2>Alice Pecorella</h2>
+‹p class="descrizione">
+Ciao! Sono Alice, frequento un corso di informatica e sto imparando a creare pagine web.
+</p>
+<h3>I miei interessi</h3>
+<ul>
+<li>Programmazione</li>
+<li>Musica</li>
+<li>Sport</li>
+</ul>
+<p>
+Il mio obiettivo è
+‹strong>creare il mio primo sito web</ strong>.
+</p>
+‹a class="pulsante" href-"mailto:marco@example.com">
+Scrivimi
+</a>
+‹table›
+‹caption>TABELLA DI PROVA</caption>
+‹tr>
+<th>città</th>
+<th>temperatura</th>
+<th>umidità</th>
+</tr>
+<tr>
+<td>Marsala</td>
+<td>-1 C°</td>
+<td>35%</td>
+</tr>
+<try
+<td>Palermo</td>
+<td>22 C°</td>
+<td>67% /td>
+</tr>
+</table>
+</article>
+</main›
+<!-- Piè di pagina -->
+‹footer>
+<p>Esercitazione di laboratorio - HTML e CSS</p>
+</footer>
+</body>
+</html>
